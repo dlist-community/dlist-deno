@@ -4,7 +4,7 @@ Just a lightweight wrapper for the dlist API written for Deno (should work with 
 ## Usage
 
 ```js
-import { dlistWrapper } from "https://deno.land/x/dlist@v1.0.0/mod.ts"
+import { dlistWrapper } from "https://deno.land/x/dlist@v1.0.1/mod.ts"
 
 const API = "fasdfdsfg07pghniure4wstgh798ht7z4es8uht28" // YOUR API KEY
 const BOT_ID = "724571620676599838" // YOUR BOT ID
