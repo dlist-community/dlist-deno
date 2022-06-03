@@ -33,8 +33,8 @@ export class dlistWrapper {
         this.lastTime = Date.now()
         return true;
     }
-    console.log("res", res);
-    console.log("re", await res.json());
+//    console.log("res", res);
+//    console.log("re", await res.json());
     return false;
   }
 }
