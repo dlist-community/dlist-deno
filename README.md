@@ -15,4 +15,4 @@ await dlistStuff.setServers(3000)
 // returns true if successful. False if failed.
 ```
 
-This wrapper requires `--allow-run`.
+This wrapper requires `--allow-net`.
